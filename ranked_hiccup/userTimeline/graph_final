@@ -1,0 +1,5 @@
+,usertimeline_tp:UserTimelineServiceProcessor_FUNC_process_WriteUserTimeline,usertimeline_tp:WriteUserTimeline_args_FUNC_read,usertimeline_tp:WriteUserTimeline_result_FUNC_write,usertimeline_tp:UserTimelineServiceProcessor_FUNC_dispatchCall
+usertimeline_tp:UserTimelineServiceProcessor_FUNC_process_WriteUserTimeline,0.0,1.0,1.0,0.0
+usertimeline_tp:WriteUserTimeline_args_FUNC_read,0.0,0.0,0.0,0.0
+usertimeline_tp:WriteUserTimeline_result_FUNC_write,0.0,0.0,0.0,0.0
+usertimeline_tp:UserTimelineServiceProcessor_FUNC_dispatchCall,1.0,0.0,0.0,1.0

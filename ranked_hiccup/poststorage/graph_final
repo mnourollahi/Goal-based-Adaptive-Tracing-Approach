@@ -1,0 +1,17 @@
+,socialnetworktypes_tp:Post_FUNC_read,socialnetworktypes_tp:Creator_FUNC_read,socialnetworktypes_tp:Media_FUNC_read,socialnetworktypes_tp:Url_FUNC_read,poststorageservice_tp:StorePost_args_FUNC_read,poststorageservice_tp:PostStorageServiceProcessor_FUNC_process_StorePost,poststorageservice_tp:StorePost_result_FUNC_write,poststorageservice_tp:PostStorageServiceProcessor_FUNC_dispatchCall
+socialnetworktypes_tp:Post_FUNC_read,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Creator_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Media_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Url_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:StorePost_args_FUNC_read,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:PostStorageServiceProcessor_FUNC_process_StorePost,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+poststorageservice_tp:StorePost_result_FUNC_write,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:PostStorageServiceProcessor_FUNC_dispatchCall,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+socialnetworktypes_tp:Post_FUNC_read,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Creator_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Media_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+socialnetworktypes_tp:Url_FUNC_read,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:StorePost_args_FUNC_read,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:PostStorageServiceProcessor_FUNC_process_StorePost,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+poststorageservice_tp:StorePost_result_FUNC_write,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+poststorageservice_tp:PostStorageServiceProcessor_FUNC_dispatchCall,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0

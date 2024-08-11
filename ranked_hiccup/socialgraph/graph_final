@@ -1,0 +1,9 @@
+,socialgraph_tp:SocialGraphServiceProcessor_func_process_GetFollowers,socialgraph_tp:GetFollowers_args_FUNC_read,socialgraph_tp:GetFollowers_result_FUNC_write,socialgraph_tp:SocialGraphServiceProcessor_func_dispatchCall
+socialgraph_tp:SocialGraphServiceProcessor_func_process_GetFollowers,0.0,1.0,1.0,0.0
+socialgraph_tp:GetFollowers_args_FUNC_read,0.0,0.0,0.0,0.0
+socialgraph_tp:GetFollowers_result_FUNC_write,0.0,0.0,0.0,0.0
+socialgraph_tp:SocialGraphServiceProcessor_func_dispatchCall,1.0,0.0,0.0,1.0
+socialgraph_tp:SocialGraphServiceProcessor_func_process_GetFollowers,0.0,1.0,1.0,0.0
+socialgraph_tp:GetFollowers_args_FUNC_read,0.0,0.0,0.0,0.0
+socialgraph_tp:GetFollowers_result_FUNC_write,0.0,0.0,0.0,0.0
+socialgraph_tp:SocialGraphServiceProcessor_func_dispatchCall,1.0,0.0,0.0,1.0
